@@ -1,0 +1,51 @@
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\MyCalories.exe.config
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\MyCalories.exe
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\MyCalories.pdb
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\EntityFramework.dll
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\MaterialSkin.dll
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\EntityFramework.xml
+C:\Users\phili\source\repos\MyCalories\MyCalories\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form1.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form2.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form3.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form4.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form5.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form6.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form7.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form8.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Form9.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.Properties.Resources.resources
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.csproj.Up2Date
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.exe
+C:\Users\phili\source\repos\MyCalories\MyCalories\obj\Release\MyCalories.pdb
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\MyCalories.exe.config
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\MyCalories.exe
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\MyCalories.pdb
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\EntityFramework.dll
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\MaterialSkin.dll
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\EntityFramework.xml
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form1.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form2.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form3.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form4.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form5.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form6.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form7.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form8.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form9.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Migrations.InitialCreate.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Properties.Resources.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.csproj.Up2Date
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.exe
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.pdb
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form10.resources
+C:\Users\phili\source\repos\MyCalories tot\MyCalories\obj\Release\MyCalories.Form11.resources

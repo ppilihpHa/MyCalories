@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|c:\\users\\phili\\source\\repos\\mycalories tot\\mycalories\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\gericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\gericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\gerichtzutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\gerichtzutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\anzeige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\anzeige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\migrations\\202410111119250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\migrations\\202410111119250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\zutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\zutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\mycaloriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\mycaloriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\soll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\soll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|C:\\Users\\phili\\source\\repos\\MyCalories tot\\mycalories\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C8BDD9D0-9257-4413-98C4-4E41145A5434}|MyCalories\\MyCalories.csproj|solutionrelative:mycalories\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form6.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form6.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form6.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form6.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:42:43.368Z",
+              "IsPinned": true,
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form6.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form6.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form6.cs",
+              "RelativeToolTip": "MyCalories\\Form6.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAIAwwPUBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:43:45.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form5.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form5.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form5.cs",
+              "RelativeToolTip": "MyCalories\\Form5.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAkwJEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:20:56.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form5.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form5.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form5.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form5.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:18:36.858Z",
+              "IsPinned": true,
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form4.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form4.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form4.cs",
+              "RelativeToolTip": "MyCalories\\Form4.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAuwN0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:25:24.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form11.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form11.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form11.cs",
+              "RelativeToolTip": "MyCalories\\Form11.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:32:59.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form11.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form11.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form11.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form11.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form11.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:29:47.054Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form10.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form10.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form10.cs",
+              "RelativeToolTip": "MyCalories\\Form10.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:24:40.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form10.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form10.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form10.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form10.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form10.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:20:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GerichtZutat.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\GerichtZutat.cs",
+              "RelativeDocumentMoniker": "MyCalories\\GerichtZutat.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\GerichtZutat.cs",
+              "RelativeToolTip": "MyCalories\\GerichtZutat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:54:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "202410111119250_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Migrations\\202410111119250_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Migrations\\202410111119250_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Migrations\\202410111119250_InitialCreate.cs",
+              "RelativeToolTip": "MyCalories\\Migrations\\202410111119250_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:19:30.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form9.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form9.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form9.cs",
+              "RelativeToolTip": "MyCalories\\Form9.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:32:36.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form9.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form9.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form9.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form9.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:31:31.408Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form8.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form8.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form8.cs",
+              "RelativeToolTip": "MyCalories\\Form8.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:31:31.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form8.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form8.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form8.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form8.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form8.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:29:07.245Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Soll.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Soll.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Soll.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Soll.cs",
+              "RelativeToolTip": "MyCalories\\Soll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:14:31.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Zutat.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Zutat.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Zutat.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Zutat.cs",
+              "RelativeToolTip": "MyCalories\\Zutat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:39:04.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gericht.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Gericht.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Gericht.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Gericht.cs",
+              "RelativeToolTip": "MyCalories\\Gericht.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:48.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyCaloriesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\MyCaloriesDbContext.cs",
+              "RelativeDocumentMoniker": "MyCalories\\MyCaloriesDbContext.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\MyCaloriesDbContext.cs",
+              "RelativeToolTip": "MyCalories\\MyCaloriesDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:41:26.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form7.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form7.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form7.cs",
+              "RelativeToolTip": "MyCalories\\Form7.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:08:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form7.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form7.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form7.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form7.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:06:57.052Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Anzeige.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Anzeige.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Anzeige.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Anzeige.cs",
+              "RelativeToolTip": "MyCalories\\Anzeige.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:14:41.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Rechnung.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Rechnung.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Rechnung.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Rechnung.cs",
+              "RelativeToolTip": "MyCalories\\Rechnung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:32:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Tag.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Tag.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Tag.cs",
+              "RelativeToolTip": "MyCalories\\Tag.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:42:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form4.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form4.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form4.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form4.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:24:39.79Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form3.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form3.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form3.cs",
+              "RelativeToolTip": "MyCalories\\Form3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:45:46.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form3.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form3.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form3.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form3.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form3.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:42:25.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form2.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form2.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form2.cs",
+              "RelativeToolTip": "MyCalories\\Form2.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:04:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form2.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form2.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form2.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form2.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form2.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:44:35.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Program.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Program.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Program.cs",
+              "RelativeToolTip": "MyCalories\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:59:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MyCalories\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:14:52.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\App.config",
+              "RelativeDocumentMoniker": "MyCalories\\App.config",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\App.config",
+              "RelativeToolTip": "MyCalories\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-28T14:00:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form1.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form1.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form1.cs",
+              "RelativeToolTip": "MyCalories\\Form1.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAcwDQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:37:53.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form1.cs",
+              "RelativeDocumentMoniker": "MyCalories\\Form1.cs",
+              "ToolTip": "C:\\Users\\phili\\source\\repos\\MyCalories tot\\MyCalories\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "MyCalories\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:33:37.591Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
